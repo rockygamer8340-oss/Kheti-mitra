@@ -1,0 +1,13 @@
+{
+  "name": "kheti-mitra",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Crop disease detection and farm assistant for farmers (Hindi / English)",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
